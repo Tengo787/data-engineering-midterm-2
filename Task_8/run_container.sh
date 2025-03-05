@@ -1,0 +1,3 @@
+#!/bin/bash
+docker build -t task8_image .
+docker run --rm -p 8000:8000 task8_image
