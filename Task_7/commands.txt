@@ -1,0 +1,4 @@
+docker build -t task7_image .
+docker run --rm -v $(pwd):/app task7_image
+docker ps
+docker image prune -f
