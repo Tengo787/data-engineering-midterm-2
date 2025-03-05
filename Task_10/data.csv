@@ -1,0 +1,6 @@
+id,date,value,category
+1,2024-01-01,1234.567,finance
+2,2024-02-15,987.654,marketing
+3,2024-03-10,0,scientific
+4,2024-04-05,,finance
+5,2024-05-20,4567.891,marketing
